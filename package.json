@@ -1,0 +1,14 @@
+{
+  "name": "oss-workshop-atl",
+  "version": "1.0.0",
+  "description": "Open source workshop project",
+  "repository": "git@github.com:caabernathy/oss-workshop-atl.git",
+  "author": "Christine Abernathy <ca.abernathy@fb.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^19.0.2"
+  }
+}
