@@ -19,4 +19,7 @@ My favorite quote is "YOUR_FAVORITE_QUOTE".
 Be warned, reviewers may dare you to add flare. If you don't know what flare is, watch [Office Space](https://en.wikipedia.org/wiki/Office_Space) when you have a minute.
 
 ### Add Your Info Below...
-
+<pre>
+Hello my name is Kojo.
+My favorite quote is "I feel that waiting til the last minute brings quicker results."
+</pre>
