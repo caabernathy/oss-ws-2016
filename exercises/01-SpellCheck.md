@@ -1,13 +1,13 @@
 # Greatness ensues
 
-Developer peeps,
+Developers,
 
-This is the most wonderful project you'll ever come across in your entire existence.
+This is the most wonderful project will ever come across!
 
-Unfortunately, I can't build it myself so I need your help!
+Unfortunately, I cannot build it myself. So, I need your help!
 
-Your mission, if you chose to accept it, is to find all the rlly od things and spelng mistakes that are all over and please halp me fixs them.
+Your mission, if you chose to accept it, is to find all the really odd things and spelling mistakes that are all over, and help me fix them.
 
-I'd also love to see code, more code than I can ver put togethr myself.
+I would also love to see code, more code than I could ever put together myself.
 
 ENJOY!!
