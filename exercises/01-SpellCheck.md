@@ -10,4 +10,4 @@ Your mission, if you chose to accept it, is to find all the really odd things an
 
 I'd also love to see code, more code than I can ever put togethr myself.
 
-ENJOY!! My Fixes. SO
+ENJOY!! Fixes made by SO.
