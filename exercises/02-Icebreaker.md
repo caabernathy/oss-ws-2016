@@ -20,3 +20,9 @@ Be warned, reviewers may dare you to add flare. If you don't know what flare is,
 
 ### Add Your Info Below...
 
+<pre>
+Hello my name is TONICIA KELLY
+My favorite quote is "Difficult Takes A Day, Impossible Takes A Week." - Sean Puffy Combs
+Take dat! Take dat!
+</pre>
+
