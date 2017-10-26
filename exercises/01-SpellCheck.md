@@ -1,5 +1,7 @@
 # Greatness ensues
 
+I downt lyke 2 sbell fing wright.
+
 Developer peeps,
 
 This is the best project you'll come across in your life.
