@@ -2,7 +2,7 @@
 
 Developer peeps,
 
-This is the most wonderful project you'll ever come across in your entire existence.
+This is the most wonderful project you'll ever come acr. oss in your entire existence.
 
 Unfortunately, I can't build it myself so I need your help!
 
