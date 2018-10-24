@@ -1,6 +1,6 @@
 # Greatness ensues
 
-Developer peeps,
+Developer Community,
 
 This is the most wonderful project you'll ever come across in your entire existence.
 
