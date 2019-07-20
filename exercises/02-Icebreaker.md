@@ -12,7 +12,7 @@ This is an exercise to walk through a simple contribution flow.
 Info to add:
 
 <pre>
-Hello my name is YOUR_NAME.
+Hello my name is DAVID.
 My favorite quote is "YOUR_FAVORITE_QUOTE".
 </pre>
 
